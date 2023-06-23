@@ -1,2 +1,2 @@
 # HIP
-Hydron Improvement Proposals
+Hadron Improvement Proposals
